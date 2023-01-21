@@ -24,7 +24,6 @@ function App() {
                 <p>Username12345</p>
                 <p>Willy, whilty, good person</p>
                 <br/>
-
             </div>
 
         </div>
