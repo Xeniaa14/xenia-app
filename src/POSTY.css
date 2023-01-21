@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navbar{
+    background-color: #F0F0F0;
+    margin-top: 26px;
+    display: flex;
+    width: 80%;
+    height: 55px;
+    border-radius: 10px 0px 0px 10px;
+    align-items: center;
+}
+
+.logo{
+    margin-left: 18px;
+    font-weight: 700;
+    font-size: 32px;
+    letter-spacing: 0.2em;
+}
+.nav{
+    font-size: 32px;
+    color:#9F9F9F;
+    font-variant: small-caps;
+    margin-left: 88px;
+}
+.nav2{
+    color:#E3C62E;
+}
